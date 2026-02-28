@@ -1,0 +1,7 @@
+{
+  "name": "resto-go",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
